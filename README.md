@@ -1,2 +1,4 @@
-# cinestop
-Web-Application used to tell the movie info using IMDB
+# cinestop-website
+Movie Database website written using HTML, CSS, JS &amp; PHP.
+
+Module: Web Based Application Development
