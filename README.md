@@ -1,4 +1,4 @@
 # cinestop-website
 Movie Database website written using HTML, CSS, JS &amp; PHP.
 
-Module: Web Based Application Development
+Module: Web Based Application Development model.
